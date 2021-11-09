@@ -1,0 +1,28 @@
+.tileContainer {
+	min-width: 22rem;
+	height: 18rem;
+	border: 1px solid;
+	text-decoration: none;
+	color: black;
+	
+}
+
+.imageContainer {
+	width: 100%;
+    height: 50%;
+    overflow: hidden;
+}
+
+.contentContainer {
+	padding: 1rem;
+    display: grid;
+    grid-row-gap: 1rem;
+}
+
+.dateContainer {
+	color: gray;
+}
+
+img {
+	width: 100%;
+}

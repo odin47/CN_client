@@ -1,0 +1,8 @@
+input {
+	min-height: 3rem;
+    min-width: 30rem;
+    border-radius: 2rem;
+	font-size: 1rem;
+	padding: 0px 10px;
+	margin: 1rem;
+}
